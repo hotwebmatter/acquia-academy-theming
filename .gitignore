@@ -34,3 +34,7 @@
 # Lando
 /drupal8.*.gz
 /.lando.local.yml
+
+# IDE files
+/.idea
+/.vscode
