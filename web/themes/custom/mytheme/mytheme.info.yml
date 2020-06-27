@@ -1,0 +1,4 @@
+name: My Great Theme
+type: theme
+description: This is my theme project for Acquia Academy
+core: 8.x
